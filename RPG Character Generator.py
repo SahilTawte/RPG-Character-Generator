@@ -41,5 +41,5 @@ def create_character(name, strength, intelligence, charisma):
     return result
 
 # Example usage
-print(create_character("Jotaro", 10, 9, 8))
+print(create_character("Jotaro", 10, 9, 7))
 
