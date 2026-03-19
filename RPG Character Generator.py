@@ -1,5 +1,5 @@
 def create_character(name, strength, intelligence, charisma):
-    # Validate name
+    # Validate name 
     if not isinstance(name, str):
         return "The character name should be a string"
     if name == "":
