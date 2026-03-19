@@ -22,7 +22,7 @@ The program validates user input and visually displays the character's stats.
 - **Visual Stat Representation**
   - ● = filled stat points
   - ○ = empty points (to reach 10 dots per stat)
-
+    
 ---
 
 ## 🧠 Example Usage
